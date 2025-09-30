@@ -3,4 +3,4 @@
 ##Installation
 run 'python install -r requirements.txt'
 
-<img width="884" height="846" alt="Image" src="https://github.com/user-attachments/assets/c27ba170-b06d-4169-a7e0-29d030dc100c" />
+<img width="571" height="676" alt="Image" src="https://github.com/user-attachments/assets/ce4dd6ec-1fab-4ddd-b3cf-61b399ea6067" />
